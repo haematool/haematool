@@ -35,5 +35,5 @@
 </p>
 
 <p align="left">
-  I use these tools in various projects, from deploying applications with NGINX to conducting statistical analyses in Python, R, and MATLAB.
+  I use these tools in various projects, from building machine learning and deep learning models to conducting statistical analyses in Python, R, and MATLAB.
 </p>
