@@ -3,12 +3,6 @@
 
 <p align="center">I'm currently pursuing a Master 2 in Health and AI, combining my medical background with cutting-edge AI technologies to advance personalized healthcare.</p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=haematool&theme=flat&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a> 
-</p>
-
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, and AI applications in healthcare**.
 - 🏥 Working on AI-driven solutions to improve diagnostic tools in hematology.
 - 💻 Building projects using Python, Scikit-Learn, and TensorFlow.
