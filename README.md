@@ -36,7 +36,3 @@
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/>
   </a>
 </p>
-
-<p align="left">
-  I use these tools in various projects, from building machine learning and deep learning models to conducting statistical analyses in **Python**, **R**, and **MATLAB**.
-</p>
